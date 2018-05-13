@@ -8,8 +8,11 @@ Seminar ASP.NET Core 2.0 tại Nhất Nghệ
 * ASP.NET Core
 * Building Web App with ASP.NET Core MVC in Visual Studio 2017
 
-## Session 2: Entity Framework Core 2.0
-
+## Session 2: Entity Framework Core 2.0 (May 13th, 2018)
+* Intro Entity Framework Core
+* Create Model (Code First, Database First)
+* Query Data
+* Saving Data
 
 ## Session 3: ASP.NET Core Web API
 
