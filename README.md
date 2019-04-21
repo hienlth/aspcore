@@ -1,5 +1,5 @@
-# ASP.NET Core 2.0 Seminar Resource
-Seminar ASP.NET Core 2.0 tại Nhất Nghệ
+# ASP.NET Core 2.x Seminar Resource
+Seminar ASP.NET Core 2.x tại Nhất Nghệ
 
 ### Trình bày: [Lương Trần Hy Hiến](https://hienlth.info) - Trung tâm Đào tạo CNTT [Nhất Nghệ](http://nhatnghe.com)
 
@@ -16,3 +16,8 @@ Seminar ASP.NET Core 2.0 tại Nhất Nghệ
 
 ## Session 3: ASP.NET Core Web API
 
+-------------------------------------------
+## Session 4: Intro ASP.NET Core (April 21st, 2019)
+* 2019 Web development trend
+* Intro ASP.NET Core 2.2
+* Using ASP.NET Core MVC for development Web UI and Web API
